@@ -1,3 +1,3 @@
 # Omokio
 
-![Omokio Logo](https://github.com/Omokio/.github/blob/dff9eba25187acd2f8d7d53d97030fec6cbd9369/profile/Omokio.png)
+![Omokio Logo](https://github.com/Omokio/.github/blob/052720b20c5037ca68aea8c9f505c9af7572e16c/profile/Omokio.png)
